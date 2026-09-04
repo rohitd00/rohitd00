@@ -7,7 +7,7 @@
 <samp>
 / <a href="https://zeniths.space">zeniths.space</a>
 / <a href="https://github.com/rohitd00">github</a>
-/ <a href="YOUR_LINKEDIN_URL">linkedin</a>
+/ <a href="https://www.linkedin.com/in/rohit-das09/">linkedin</a>
 /
 </samp>
 </p>
