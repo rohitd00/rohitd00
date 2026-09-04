@@ -30,13 +30,13 @@ Most of my projects start as an idea or a problem worth solving. Some turn into 
 <tr>
 <td align="center" colspan="2">
 
-<b><a href="https://ziplink.zeniths.space">ZipLink</a></b> · <a href="https://ziplink.zeniths.space">live</a> · <a href="https://github.com/rohitd00/zip-link">repo</a>
+<b><a href="https://github.com/rohitd00/zip-link/">ZipLink</a></b> · <a href="https://ziplink.zeniths.space">live</a>
 
-<br><br>
+<br>
 
 URL shortener with real-time analytics. Uses a cache-first redirect path, while click events are processed asynchronously through Redis and a dedicated worker so analytics don't slow down redirects.
 
-<br><br>
+<br>
 
 <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>Redis</code> <code>BullMQ</code>
 
@@ -47,13 +47,13 @@ URL shortener with real-time analytics. Uses a cache-first redirect path, while 
 
 <td align="center">
 
-<b><a href="https://roastlab.zeniths.space">Roastlab</a></b> · <a href="https://roastlab.zeniths.space">live</a> · <a href="https://github.com/rohitd00/roastlab">repo</a>
+<b><a href="https://github.com/rohitd00/roastlab/">Roastlab</a></b> · <a href="https://roastlab.zeniths.space">live</a>
 
-<br><br>
+<br>
 
 Your GitHub, Reddit, LeetCode and Codeforces history finally gets judged. Turns developer activity and coding history into a personalized roast.
 
-<br><br>
+<br>
 
 <code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>APIs</code>
 
@@ -63,11 +63,11 @@ Your GitHub, Reddit, LeetCode and Codeforces history finally gets judged. Turns 
 
 <b><a href="https://github.com/rohitd00/rootmind">RootMind</a></b> · <i>in development</i>
 
-<br><br>
+<br>
 
 API health monitoring with AI-powered root-cause diagnosis — moving beyond simply knowing an API is down to understanding what went wrong.
 
-<br><br>
+<br>
 
 <code>Backend</code> <code>Monitoring</code> <code>AI</code>
 
@@ -85,13 +85,13 @@ API health monitoring with AI-powered root-cause diagnosis — moving beyond sim
 
 <td align="center">
 
-<b><a href="https://teachassist.zeniths.space">TeachAssist</a></b> · <a href="https://teachassist.zeniths.space">live</a> · <a href="https://github.com/rohitd00/LessonAI">repo</a>
+<b><a href="https://github.com/rohitd00/LessonAI">TeachAssist</a></b> · <a href="https://teachassist.zeniths.space">live</a>
 
-<br><br>
+<br>
 
 AI-driven classroom planner for lesson generation, assessments, personalized quizzes and learning analytics.
 
-<br><br>
+<br>
 
 <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Prisma</code> <code>Groq</code>
 
@@ -101,11 +101,11 @@ AI-driven classroom planner for lesson generation, assessments, personalized qui
 
 <b><a href="https://github.com/rohitd00/IntelliShell">IntelliShell</a></b>
 
-<br><br>
+<br>
 
 A smart, resource-aware shell with AI-powered command suggestions, process monitoring, enhanced history and multi-session support.
 
-<br><br>
+<br>
 
 <code>C/C++</code> <code>Shell</code> <code>AI</code>
 
@@ -119,11 +119,11 @@ A smart, resource-aware shell with AI-powered command suggestions, process monit
 
 <b><a href="https://github.com/rohitd00/maps-scraper">Google Maps Scraper</a></b>
 
-<br><br>
+<br>
 
 Chrome extension that scrapes visible Google Maps listings, auto-scrolls through results and exports structured data directly to Excel.
 
-<br><br>
+<br>
 
 <code>JavaScript</code> <code>Chrome Extension</code> <code>SheetJS</code>
 
@@ -133,11 +133,11 @@ Chrome extension that scrapes visible Google Maps listings, auto-scrolls through
 
 <b><a href="https://github.com/rohitd00/JobTrack">JobTrack</a></b>
 
-<br><br>
+<br>
 
 Full-stack job application tracker with authentication, status management, search, filtering and dashboard analytics.
 
-<br><br>
+<br>
 
 <code>React</code> <code>TypeScript</code> <code>Express</code> <code>JWT</code>
 
@@ -151,11 +151,11 @@ Full-stack job application tracker with authentication, status management, searc
 
 <b><a href="https://github.com/rohitd00/StockIT">StockIT</a></b>
 
-<br><br>
+<br>
 
 Continuous stock tracker combining market data, financial news, sentiment analysis, SQL-based storage, ETL and Power BI reporting.
 
-<br><br>
+<br>
 
 <code>Python</code> <code>SQL</code> <code>ETL</code> <code>Power BI</code>
 
@@ -165,11 +165,11 @@ Continuous stock tracker combining market data, financial news, sentiment analys
 
 <b><a href="https://github.com/rohitd00/WishTracker">Wishlist Pro</a></b>
 
-<br><br>
+<br>
 
 Minimal wishlist and task tracker with priorities, dynamic tags, live search, inline editing and progress insights.
 
-<br><br>
+<br>
 
 <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Node.js</code> <code>MongoDB</code>
 
@@ -183,11 +183,11 @@ Minimal wishlist and task tracker with priorities, dynamic tags, live search, in
 
 <b><a href="https://github.com/rohitd00/route-optima">RouteOptima</a></b>
 
-<br><br>
+<br>
 
 Priority-based flight route optimizer built around a modified TSP, with multiple algorithms, priority constraints and interactive route visualization.
 
-<br><br>
+<br>
 
 <code>Python</code> <code>Flask</code> <code>Algorithms</code> <code>TSP</code>
 
