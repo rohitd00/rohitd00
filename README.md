@@ -47,7 +47,7 @@ URL shortener with real-time analytics. Uses a cache-first redirect path, while 
 
 <td align="center">
 
-<b><a href="https://github.com/rohitd00/roastlab/">Roastlab</a></b> · <a href="https://roastlab.zeniths.space">live</a>
+<b><a href="https://github.com/rohitd00/roastlab/">Roastlab</a></b> · <i>in development</i> · <a href="https://roastlab.zeniths.space">live</a>
 
 <br>
 
@@ -61,7 +61,7 @@ Your GitHub, Reddit, LeetCode and Codeforces history finally gets judged. Turns 
 
 <td align="center">
 
-<b><a href="https://github.com/rohitd00/rootmind">RootMind</a></b> · <i>in development</i>
+<b><a href="https://github.com/rohitd00/rootmind">RootMind</a></b> · <i>in development</i> · <a href="https://rootmind.zeniths.space">live</a>
 
 <br>
 
