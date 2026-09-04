@@ -1,18 +1,125 @@
-# 💫 About Me:
-🚀 I’m currently working on<br>My personal portfolio, full-stack applications, and backend-focused projects.<br><br>🤝 I’m looking to collaborate on<br>Interesting web applications, developer tools, and practical open-source projects.<br><br>🧩 I’m looking for help with<br>System design, scalable backend architecture, and writing production-ready software.<br><br>🌱 I’m currently learning<br>Backend architecture, database design, API development, system design, and DevOps.<br><br>💬 Ask me about<br>JavaScript, TypeScript, React, Next.js, Node.js, Express, REST APIs, and the projects I'm building.<br><br>⚡ Fun fact<br>I enjoy turning random ideas into working projects just to see how far I can take them.
+<div align="center">
 
+### Rohit Das, `rohitd00`
+<sup><i>Full-stack · Backend · Web Development · GEHU · CSE</i></sup>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-das09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitdasrd029@gmail.com) 
+<p>
+<samp>
+/ <a href="https://zeniths.space">zeniths.space</a>
+/ <a href="YOUR_LINKEDIN_URL">linkedin</a>
+/ <a href="mailto:YOUR_EMAIL">email</a> /
+</samp>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rohitd00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rohitd00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohitd00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rohitd00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I build things to understand how they work.
+
+I'm a Computer Science student interested in full-stack development, backend engineering, and building practical software. I enjoy taking an idea from a rough concept to a working product — designing the interface, building the APIs and data layer, and eventually putting the thing into production.
+
+I'm particularly interested in the parts of software that aren't immediately visible: backend architecture, databases, APIs, application structure, and the decisions that make a project reliable and maintainable.
+
+---
+
+#### selected work
+
+<table>
+    <tr>
+        <td align="center" colspan="2">
+            <b><a href="https://zeniths.space">Zeniths</a></b> · <a href="https://zeniths.space">live</a>
+            <br><br>
+            Personal developer portfolio and digital identity. Built from the ground up with a focus on thoughtful interaction design, clean visual systems, and presenting projects without getting in the way of the work.
+            <br><br>
+            <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>CSS</code> <code>Vercel</code>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <b>ZipLink</b>
+            <br><br>
+            A URL-shortening application built to explore backend development, API design, request handling, persistent data, and the fundamentals behind a practical web service.
+            <br><br>
+            <code>Node.js</code> <code>Express.js</code> <code>REST API</code> <code>Database</code>
+        </td>
+        <td align="center">
+            <b>Valorant Roast</b>
+            <br><br>
+            A playful API-driven project that turns Valorant player data into a personalized roast. A small experiment combining external data, backend logic, and an intentionally gamified interface.
+            <br><br>
+            <code>Express.js</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code> <code>API</code>
+        </td>
+    </tr>
+</table>
+
+---
+
+#### what I like building
+
+<table>
+    <tr>
+        <td align="center">
+            <b>full-stack applications</b>
+            <br><br>
+            Products where the frontend, backend, database, and deployment all have to work together.
+        </td>
+        <td align="center">
+            <b>backend systems</b>
+            <br><br>
+            APIs, authentication, databases, server-side logic, and the infrastructure behind applications.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <b>developer tools</b>
+            <br><br>
+            Small utilities and tools that solve annoyingly specific problems for developers.
+        </td>
+        <td align="center">
+            <b>experiments</b>
+            <br><br>
+            Projects built because something seemed interesting enough to understand by actually building it.
+        </td>
+    </tr>
+</table>
+
+---
+
+#### currently
+
+- 🎓 B.Tech Computer Science student at Graphic Era Hill University
+- 🔨 Building full-stack and backend-focused projects
+- 🌐 Redesigning and building my portfolio → [zeniths.space](https://zeniths.space)
+- 📚 Improving my understanding of backend architecture, databases, APIs, and system design
+- 🧪 Experimenting with ideas that combine engineering and product design
+- 💼 Looking for opportunities to work on real-world software and learn from experienced engineers
+
+---
+
+#### things I'm working with
+
+<samp>
+JavaScript · TypeScript · Java · Python · React · Next.js · Node.js · Express.js · HTML · CSS · PostgreSQL · MongoDB · Git · GitHub · Docker · Vercel
+</samp>
+
+---
+
+#### how I approach projects
+
+```text
+idea
+ ↓
+prototype
+ ↓
+build
+ ↓
+break
+ ↓
+understand why
+ ↓
+fix
+ ↓
+deploy
+ ↓
+improve
