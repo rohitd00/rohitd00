@@ -200,6 +200,8 @@ Priority-based flight route optimizer built around a modified TSP, with multiple
 
 #### currently
 
+- backend ai engineering intern at FlyRank AI
+- final year at university
 - building and refining full-stack projects
 - exploring backend architecture, distributed systems and AI-assisted tooling
 - turning random ideas into things that actually work
